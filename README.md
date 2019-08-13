@@ -1,4 +1,3 @@
 # Pure-JS-Weather
 Weather app using external API
-
-http://reifnotreef.dev/Pure-JS-Weather/
+Unfortunately the openweathermap API does not allow HTTPS so the github Pages version of this app does not work correctly.
